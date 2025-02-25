@@ -2,37 +2,29 @@
 
 👨‍🏫 **Curriculum Developer & Coding Trainer @ [Codomo](https://www.codomo.in/)**  
 📚 Passionate about **teaching, coding, and developing engaging learning experiences**.  
-🚀 Helping students & professionals master programming, problem-solving, and technology.  
+🚀 Helping students to learn programming, problem-solving, and technology.  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 🔥 What I Do  
 - 🎯 **Design & develop coding curriculums** for various programming languages & technologies.  
-- 💡 **Train & mentor** students and professionals in **Python, JavaScript, Web Dev, DSA, and AI**.  
-- 🌍 Advocate for **project-based learning & hands-on coding**.  
-- 🎤 Conduct workshops, webinars & bootcamps on **emerging tech trends**.  
+- 💡 **Train & mentor** students in **Python, HTML, CSS & Javascript**.  
 
 ### 🌱 Currently Learning  
 - AI & Machine Learning integration in education.  
-- Building interactive coding platforms for better learning experiences.  
 
 ### 👯 Looking to Collaborate  
-- **Open-source educational tools & projects**.  
-- **Innovative tech-driven learning platforms**.  
-- **Workshops, coding challenges & hackathons**.  
+- **Open-source educational tools & projects**.    
+- **Workshops & coding challenges**.  
 
 ### 💬 Ask Me About  
 - Curriculum Development & EdTech 🚀  
 - Python, JavaScript, HTML/CSS, React 🔥  
 - Data Structures & Algorithms 📊  
-- Best Practices for Teaching Code 🎓  
+ 
 
 ### 📫 How to Reach Me  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile)  
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/your-handle)  
-📧 Email: your.email@example.com  
-
----
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amitha-mofficial/)  
+📧 Email: amithaamitha816@gmail.com
 
 ### 🚀 I Code In  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>  
