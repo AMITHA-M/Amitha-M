@@ -31,6 +31,11 @@
 
 ### 🛠 Tools & IDEs  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true)  
+
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
 
 ✨ **"Empowering the next generation of coders, one lesson at a time!"** 🚀  
